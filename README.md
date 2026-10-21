@@ -1,4 +1,4 @@
-# Quiroga_fabricio_recuperatorio_segundo_parcial
+# Quiroga_fabricio_segundo_parcial
 # 🛍️ Sistema de Gestión de Inventario para Tienda en Línea
 
 ## **📜 Enunciado**
